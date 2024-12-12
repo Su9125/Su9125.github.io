@@ -1,8 +1,8 @@
-# Hello World
+# Yeonsu Choi's Portfolio
 
 This is my home page! My name is Yeonsu Choi and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science and I plan to graduate at 2027.
 
-## Computer Science Projects
+## Impressed Computer Science Labs
 
 My GitHub page is https://github.com/Su9125.
 
